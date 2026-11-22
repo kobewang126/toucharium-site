@@ -1,0 +1,11 @@
+<!-- SPDX-License-Identifier: GPL-2.0-or-later -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Toucharium</title>
+  <desc id="desc">An orange T inside an ivory window, with a square touch point, on charcoal.</desc>
+  <rect width="1024" height="1024" fill="#1c2523"/>
+  <rect x="234" y="226" width="556" height="572" rx="98" fill="none" stroke="#f4f0e6" stroke-width="32"/>
+  <rect x="332" y="352" width="360" height="96" rx="24" fill="#ff794f"/>
+  <path d="M464 428h96v238a24 24 0 0 1-24 24h-48a24 24 0 0 1-24-24Z" fill="#ff794f"/>
+  <rect x="678" y="670" width="150" height="158" rx="28" fill="#1c2523"/>
+  <rect x="710" y="704" width="104" height="104" rx="28" fill="#ff794f"/>
+</svg>
