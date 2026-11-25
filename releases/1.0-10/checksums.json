@@ -1,0 +1,11 @@
+{
+  "third-party-notices.zip": "cb1aadbbcb5fd7326db3efc25ce97fcbf6f6dbe717a25fb69860f6a37b8386cc",
+  "source-acquisition.csv": "56ab2043395eb5ef06ef07ca68d35ea9151bdc0b6026db6d6f47a884aba85128",
+  "release-map.json": "0076af52ac605e3cc5859901147bb5a832598251307de4614f260ee0f7291df3",
+  "image-adaptation-source.tar.gz": "9013fdaf1b0cf94414b8ff2be613949d7ed7e0624c1727a978f39b31ba55a02e",
+  "cpio-files.csv": "6109c05e2f59961f7212410709a3b43a07ea4eb81d5792b39b0a436cdaf9707b",
+  "r1-file-changes.csv": "540629fc00dd65f3609d65a89d17d6c44b9086835b9295c336e9113d09167c91",
+  "deb-components.csv": "df218bd0497ef96e9d338c05ca8ccb4955a412ee05458da2fea7744281a3923c",
+  "click-components.csv": "9d28a42b37cabd17ab2173f1da9427046282375079c5b98f0eeaec43a47b4d99",
+  "source-locations.json": "25703f9289526c1eb636ab89b6096ca115f5ca2e660bbc9568929ede8148d8a5"
+}

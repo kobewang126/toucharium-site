@@ -11,3 +11,8 @@ Preview with `python3 -m http.server 8080`.
 Website code and the original Toucharium mark are GPL-2.0-or-later. The guest
 screenshot depicts Ubuntu Touch and retains its respective third-party rights.
 The application source is linked from the site's open-source page.
+
+Versioned release pages own the shipped component inventories, extracted notices,
+image adaptation source and corresponding-source availability status. These
+materials distinguish verified provenance from outstanding source and permission
+work; inventories alone are not complete corresponding source.

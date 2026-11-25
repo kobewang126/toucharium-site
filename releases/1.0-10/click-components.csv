@@ -1,0 +1,12 @@
+name,version,architecture,manifest_path,declared_license,source_status
+calculator.ubports,4.1.0,arm64,usr/share/click/preinstalled/calculator.ubports/4.1.0/.click/info/calculator.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+calendar.ubports,1.3.1,arm64,usr/share/click/preinstalled/calendar.ubports/1.3.1/.click/info/calendar.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+camera.ubports,4.2.1,arm64,usr/share/click/preinstalled/camera.ubports/4.2.1/.click/info/camera.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+clock.ubports,4.1.1,arm64,usr/share/click/preinstalled/clock.ubports/4.1.1/.click/info/clock.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+filemanager.ubports,1.1.4,arm64,usr/share/click/preinstalled/filemanager.ubports/1.1.4/.click/info/filemanager.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+gallery.ubports,3.2.2+ubuntu-sdk-20.04,arm64,usr/share/click/preinstalled/gallery.ubports/3.2.2+ubuntu-sdk-20.04/.click/info/gallery.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+music.ubports,3.3.0,arm64,usr/share/click/preinstalled/music.ubports/3.3.0/.click/info/music.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+notes.ubports,1.0.2,arm64,usr/share/click/preinstalled/notes.ubports/1.0.2/.click/info/notes.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+openstore.openstore-team,4.2.0-20.04,arm64,usr/share/click/preinstalled/openstore.openstore-team/4.2.0-20.04/.click/info/openstore.openstore-team.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+terminal.ubports,2.0.6,arm64,usr/share/click/preinstalled/terminal.ubports/2.0.6/.click/info/terminal.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
+weather.ubports,6.3.0,arm64,usr/share/click/preinstalled/weather.ubports/6.3.0/.click/info/weather.ubports.manifest,not-declared-in-manifest,exact-source-not-yet-collected
