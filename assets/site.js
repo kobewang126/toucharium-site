@@ -21,5 +21,26 @@
     window.history.replaceState(null, '', url);
     apply();
   });
+  document.querySelectorAll('[data-copy-target]').forEach(control => {
+    control.addEventListener('click', async () => {
+      const code = document.getElementById(control.dataset.copyTarget);
+      const status = document.getElementById('copy-status');
+      if (!code || !status) return;
+      try {
+        await navigator.clipboard.writeText(code.textContent);
+        status.textContent = language === 'en' ? 'Command copied.' : '命令已复制。';
+        control.querySelector('[data-zh]').textContent = '已复制';
+        control.querySelector('[data-en]').textContent = 'Copied';
+        window.setTimeout(() => {
+          control.querySelector('[data-zh]').textContent = '复制命令';
+          control.querySelector('[data-en]').textContent = 'Copy command';
+        }, 1800);
+      } catch {
+        status.textContent = language === 'en'
+          ? 'Copy was unavailable. Select and copy the command manually.'
+          : '无法自动复制，请选中命令手动复制。';
+      }
+    });
+  });
   apply();
 })();
