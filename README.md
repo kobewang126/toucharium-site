@@ -9,7 +9,9 @@ the `lang` URL parameter without storing a browser preference.
 Preview with `python3 -m http.server 8080`.
 
 Website code and the original Toucharium mark are GPL-2.0-or-later. The guest
-screenshot depicts Ubuntu Touch and retains its respective third-party rights.
+screenshots depict Ubuntu Touch and retain their respective third-party rights.
+The home page shows phone and desktop-window simulator captures; the support
+page owns the usage guide for the external-image development build.
 The application source is linked from the site's open-source page.
 
 Versioned release pages own the shipped component inventories, extracted notices,
