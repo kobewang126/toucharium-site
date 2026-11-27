@@ -15,6 +15,8 @@ page owns the usage guide for the V2.0 external-image version.
 The image preparation page owns the download, Linux setup, packaging and import
 instructions, with copyable commands and an optional Mac VM workflow.
 The application source is linked from the site's open-source page.
+The home page links to the released App Store app and hosts the image-import
+recording, with native playback controls and no automatic video preload.
 
 Versioned release pages own the shipped component inventories, extracted notices,
 image adaptation source and corresponding-source availability status. These
